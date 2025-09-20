@@ -1,0 +1,12 @@
+{
+  "name": "com.namphuthuy.isthirteen",
+  "version": "1.0.0",
+  "displayName": "IsThirteen",
+  "description": "Check if a number is equal to 13.",
+  "unity": "2022.3",
+  "author": {
+    "name": "NamPhuThuy",
+    "email": "ttnam957@gmail.com",
+    "url": "https://github.com/NamPhuThuy"
+  }
+}
